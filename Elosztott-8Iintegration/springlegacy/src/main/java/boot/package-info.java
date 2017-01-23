@@ -1,8 +1,2 @@
-/**
- * 
- */
-/**
- * @author Patrik
- *
- */
+
 package boot;
